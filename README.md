@@ -48,7 +48,7 @@ https://www.mysql.com/downloads/
 3.1 Install the required Prerequisites
 ```sh
 1- Import the back-end and go to src\main\resources\application.properties
-- in application.properties you should replace 
+-In application.properties you should replace 
     spring.datasource.username=YOUR USERNAME
     spring.datasource.password=YOUR PASSWORD
 -After that you can run the project 
