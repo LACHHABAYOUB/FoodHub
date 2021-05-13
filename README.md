@@ -69,14 +69,13 @@ https://www.mysql.com/downloads/
 
 ```sh
 
-//				passanger  => Email :    Passwrod : 
-//				agent      => Email : 	 Passwrod : 
-//				admin      => Email :    Passwrod : 
+//				user       => login :User     Passwrod : User   
+//				admin      => login :Admin    Passwrod : Admin
 ```
 
-4 Project Team 
-```sh
+4 Project Team
 
+```sh
 Ayoub Lachhab 
 Andy Nhut Tran
 Ahmad Rami ElTal
@@ -85,10 +84,9 @@ Mohamed Gaber Mohamed Abdelgawad Serageldin
 ```
 
 5 How To Install the application
+
 ```sh
-
 https://youtu.be/pT9Lp2rnf7M
-
 ```
 
 
