@@ -78,9 +78,6 @@ Andy Nhut Tran
 Anderson Arbeláez
 Ahmad Rami ElTal
 Mohamed Gaber Mohamed Abdelgawad Serageldin
-
-
-
 ```
 
 
