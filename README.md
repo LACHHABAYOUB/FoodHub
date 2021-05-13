@@ -86,5 +86,5 @@ Mohamed Gaber Mohamed Abdelgawad Serageldin
 
 5 Demonstration of the application
 ```sh
-https://youtu.be/ruw07eGJNIo
+
 ```
