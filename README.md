@@ -4,7 +4,7 @@
 FoodHub is Full Stack App for buy food from different restaurant (Mcdonalds , Pizza hut, .... )
 
 
-App Build with Spring Framework in Back-End And React in Front-End 
+App Build with Spring Framework as Back-End And React as Front-End .
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/44031876/118083773-218f6500-b385-11eb-9169-0d5db4a1e5e7.png)
 
