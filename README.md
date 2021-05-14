@@ -379,7 +379,7 @@ https://youtu.be/4PV6U6haN4k
 8 Special Thanks
 
 ```sh
-Special Thanks for our professor who did a lot of effort to make this course easy for us and we can see this from on this project, which we learned with him a lot of stuff who help us on Career.
+Special Thanks for our professor who did a lot of effort to make this course easy for us.
 
 Special Thanks Also for the security who He uttered various expressions of racism and give fine for the reason of remove the mask during taking this picture .
 
