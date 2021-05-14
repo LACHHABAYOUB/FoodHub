@@ -70,7 +70,7 @@ https://www.mysql.com/downloads/
 ```sh
 
 //				Admin Of Restaurant       => login :User     Passwrod : User   
-                And you can signup for check the client side.
+                     And you can signup for check the client side.
 ```
 
 4 Project Team
