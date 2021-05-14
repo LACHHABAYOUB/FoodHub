@@ -29,13 +29,19 @@ https://nodejs.org/en/download/
 2.2 Java JDK
 https://www.oracle.com/java/technologies/javase-downloads.html
 
-2.3 Integrated development environment I suggest intellij or Eclipse . 
+2.3 Integrated development environment I suggest intellij or Eclipse for backend and WebStorm Or Visual Studio Code For the front-end . 
 
 Download intellij:
 https://www.jetbrains.com/idea/download/
 
 Download Eclipse:
 https://www.eclipse.org/downloads
+
+Download Webstorm
+https://www.jetbrains.com/webstorm/download/#section=windows
+
+Download Visual studio code:
+https://code.visualstudio.com/download
 
 2.4 Database Management i suggest MySql . 
 
