@@ -361,7 +361,7 @@ Mohamed Gaber Mohamed Abdelgawad Serageldin
 5 How To Install the application
 
 ```sh
-https://youtu.be/pT9Lp2rnf7M
+https://youtu.be/UCtDLcTTwzw
 ```
 
 
