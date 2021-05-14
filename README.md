@@ -82,9 +82,9 @@ https://www.mysql.com/downloads/
 4 Project Team
 
 ```sh
+Rami ElTal
 Ayoub Lachhab 
 Andy Nhut Tran
-Ahmad Rami ElTal
 Anderson Arbeláez
 Mohamed Gaber Mohamed Abdelgawad Serageldin
 ```
