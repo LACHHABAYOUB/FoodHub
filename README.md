@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 2 Prerequisites
 
 ```sh
-2.1 Node
+2.1 Node.js
 
 You can Download from this link : 
 https://nodejs.org/en/download/
