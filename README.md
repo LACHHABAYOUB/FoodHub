@@ -98,15 +98,15 @@ https://youtu.be/4PV6U6haN4k
 7 Duration of work
 
 ```sh
-https://youtu.be/4PV6U6haN4k
+4 days
 ```
 
 8 Special Thanks
 
 ```sh
-Special Thanks for our proffesor who did a lot of effort to make this course easy for us and we can see this from on this project wich we learned with him a lot of stuff who help us on Career .
+Special Thanks for our professor who did a lot of effort to make this course easy for us and we can see this from on this project, which we learned with him a lot of stuff who help us on Career.
 
-Special Thanks Also for the security who He uttered various expressions of racism and give all of us fine for the only reason is remove mask during taking this picture even all the team we are vaccinated .
+Special Thanks Also for the security who He uttered various expressions of racism and give all of us fine for the only reason is remove the mask during taking this picture even all the team we are vaccinated.
 ```
 ![WhatsApp Image 2021-05-13 at 17 40 30](https://user-images.githubusercontent.com/44031876/118215590-68d62e00-b437-11eb-8122-becf485e6a8a.jpeg)
 ```sh
