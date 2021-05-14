@@ -69,8 +69,8 @@ https://www.mysql.com/downloads/
 
 ```sh
 
-//				user       => login :User     Passwrod : User   
-//				admin      => login :Admin    Passwrod : Admin
+//				Admin Of Restaurant       => login :User     Passwrod : User   
+                And you can signup for check the client side.
 ```
 
 4 Project Team
@@ -92,5 +92,5 @@ https://youtu.be/pT9Lp2rnf7M
 
 6 Demonstration of the application
 ```sh
-
+https://youtu.be/4PV6U6haN4k
 ```
