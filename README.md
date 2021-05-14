@@ -104,7 +104,7 @@ Special Thanks Also for the security who He uttered various expressions of racis
 ```
 ![WhatsApp Image 2021-05-13 at 17 40 30](https://user-images.githubusercontent.com/44031876/118215590-68d62e00-b437-11eb-8122-becf485e6a8a.jpeg)
 ```sh
-However we were very happy to finis this project on very short time.
+However we were very happy to finish this project on very short time.
 ```
 ```sh
 Copyrights Maharishi international university ©2021 All Rights Reserved
